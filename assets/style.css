@@ -1,0 +1,11 @@
+.pagination {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin: 1em 0 5em;
+}
+
+.pagination__link,
+.pagination__text {
+	padding: 0 1em;
+}
